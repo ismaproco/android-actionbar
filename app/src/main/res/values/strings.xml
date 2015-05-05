@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android-Actionbar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- Added the action search key to the strings values-->
+    <string name="action_search">Search</string>
+</resources>
